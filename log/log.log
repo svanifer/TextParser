@@ -1,0 +1,31 @@
+2019-06-10 12:16:58 INFO  DataReader:24 - File was successfully read.
+2019-06-10 12:16:58 INFO  Logic:40 - Parsing is starting.
+2019-06-10 12:16:58 INFO  Logic:43 - Restoration of the text.
+2019-06-10 12:16:58 INFO  CompositeHandler:21 - Text is sorting paragraphs by amount of sentences.
+2019-06-10 12:16:58 INFO  Logic:49 - The text is sorted.
+2019-06-10 12:17:10 INFO  DataReader:24 - File was successfully read.
+2019-06-10 12:17:10 INFO  Logic:40 - Parsing is starting.
+2019-06-10 12:17:10 INFO  Logic:43 - Restoration of the text.
+2019-06-10 12:17:10 INFO  CompositeHandler:21 - Text is sorting paragraphs by amount of sentences.
+2019-06-10 12:17:10 INFO  Logic:49 - The text is sorted.
+2019-06-10 12:58:25 INFO  DataReader:24 - File was successfully read.
+2019-06-10 13:02:09 ERROR DataReader:26 - java.io.FileNotFoundException: source\y.txt (Не удается найти указанный файл)
+2019-06-10 13:03:16 ERROR DataReader:26 - java.io.FileNotFoundException: source\y.txt (Не удается найти указанный файл)
+2019-06-10 13:03:16 ERROR DataReader:26 - java.io.FileNotFoundException: source\y.txt (Не удается найти указанный файл)
+2019-06-10 13:03:41 ERROR DataReader:26 - java.io.FileNotFoundException: source\y.txt (Не удается найти указанный файл)
+2019-06-10 13:03:41 INFO  DataReader:24 - File was successfully read.
+2019-06-10 13:07:07 INFO  DataReader:24 - File was successfully read.
+2019-06-10 13:07:07 INFO  Logic:40 - Parsing is starting.
+2019-06-10 13:07:07 INFO  Logic:43 - Restoration of the text.
+2019-06-10 13:07:07 INFO  CompositeHandler:21 - Text is sorting paragraphs by amount of sentences.
+2019-06-10 13:07:07 INFO  Logic:49 - The text is sorted.
+2019-06-10 13:07:26 INFO  DataReader:24 - File was successfully read.
+2019-06-10 13:07:26 INFO  Logic:40 - Parsing is starting.
+2019-06-10 13:07:26 INFO  Logic:43 - Restoration of the text.
+2019-06-10 13:07:26 INFO  CompositeHandler:21 - Text is sorting paragraphs by amount of sentences.
+2019-06-10 13:07:26 INFO  Logic:49 - The text is sorted.
+2019-06-10 13:07:36 INFO  DataReader:24 - File was successfully read.
+2019-06-10 13:07:36 INFO  Logic:40 - Parsing is starting.
+2019-06-10 13:07:37 INFO  Logic:43 - Restoration of the text.
+2019-06-10 13:07:37 INFO  CompositeHandler:21 - Text is sorting paragraphs by amount of sentences.
+2019-06-10 13:07:37 INFO  Logic:49 - The text is sorted.
